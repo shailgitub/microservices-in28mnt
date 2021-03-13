@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;spring-cloud-config-server&apos;&#x0D;&#x0A;- Original project: &apos;spring-cloud-config-server&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     generated-sources&#x0D;&#x0A;     generated-test-sources&#x0D;&#x0A;     maven-status&#x0D;&#x0A;     surefire-reports" description="Delete elements" element1="target/surefire-reports" element2="target/generated-sources" element3="target/maven-status" element4="target/generated-test-sources" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1615667330346" subPackages="false" version="1.0"/>
+</session>
