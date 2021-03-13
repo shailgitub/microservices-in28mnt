@@ -20,4 +20,21 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>git-loclalconfig-repo</name>
+			<type>2</type>
+			<location>G:/Microservices-workspace-2019/git-loclalconfig-repo</location>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>gitlocalconfigrepo</name>
+			<value>file:/G:/Microservices-workspace-2019/git-loclalconfig-repo</value>
+		</variable>
+		<variable>
+			<name>gitlocalconfigrp</name>
+			<value>file:/G:/Microservices-workspace-2019/git-loclalconfig-repo</value>
+		</variable>
+	</variableList>
 </projectDescription>
