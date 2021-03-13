@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.516 s <<< FAILURE! - in com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
+initializationError(com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests)  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
