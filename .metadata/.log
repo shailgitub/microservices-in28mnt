@@ -1976,3 +1976,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration CurrencyConversionS
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 !SUBENTRY 1 org.eclipse.jdt.launching 4 107 2021-03-15 10:07:54.945
 !MESSAGE Launch configuration CurrencyConversionServiceApplication references non-existing project currency-conversion-service.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-03-15 13:40:28.317
+!MESSAGE The POM for org.springframework.cloud:spring-cloud-starter-feign:jar:1.4.0.RELEASE is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.jdt.core 4 0 2021-03-15 13:43:29.220
+!MESSAGE Invalid ZIP archive: C:\Users\91959\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2021-03-15 13:43:35.909
+!MESSAGE Invalid ZIP archive: C:\Users\91959\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar
