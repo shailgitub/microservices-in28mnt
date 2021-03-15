@@ -1,1 +1,4 @@
+com\shail28\currencyexchangeservice\CurrencyExchangeController.class
+com\shail28\currencyexchangeservice\ExchangeValue.class
+com\shail28\currencyexchangeservice\ExchangeValueRepository.class
 com\shail28\currencyexchangeservice\CurrencyExchangeServiceApplication.class
