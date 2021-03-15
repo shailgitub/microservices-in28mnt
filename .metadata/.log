@@ -1507,3 +1507,8 @@ java.io.FileNotFoundException: target/classes
 
 !ENTRY org.eclipse.jst.jsp.core 4 4 2021-03-15 09:04:19.638
 !MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.eclipse.core.resources 2 2 2021-03-15 09:58:58.030
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-03-15 09:58:58.030
+!MESSAGE The project description file (.project) for 'currency-conversion-service' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
