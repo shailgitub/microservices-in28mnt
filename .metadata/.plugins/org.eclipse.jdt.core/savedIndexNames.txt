@@ -126,7 +126,6 @@ INDEX VERSION 1.130+G:\Microservices-workspace-2019\microservices-in28mnt\.metad
 2881361915.index
 3566541198.index
 3505143216.index
-1871985630.index
 2634524583.index
 1477143674.index
 2590843025.index
