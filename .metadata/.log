@@ -2266,3 +2266,15 @@ Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/shailg
 
 !ENTRY org.eclipse.egit.ui 4 0 2021-03-16 18:50:32.783
 !MESSAGE Can't connect to any repository: https://github.com/shailgitub/microservices-in28mnt.git (https://github.com/shailgitub/microservices-in28mnt.git: not authorized)
+
+!ENTRY org.eclipse.jface.text 2 0 2021-03-16 18:56:40.464
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2021-03-16 18:56:40.465
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2021-03-16 18:56:40.517
+!MESSAGE Duplicate template id: 'zigen.plugin.db.template.sql.case'
+
+!ENTRY org.eclipse.jdt.core 4 0 2021-03-16 18:56:43.475
+!MESSAGE Invalid ZIP archive: C:\Users\91959\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar
