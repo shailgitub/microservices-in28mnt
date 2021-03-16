@@ -2246,3 +2246,23 @@ org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://do
 
 !ENTRY org.eclipse.jdt.core 4 0 2021-03-16 18:47:26.184
 !MESSAGE Invalid ZIP archive: C:\Users\91959\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar
+
+!ENTRY org.eclipse.egit.core 4 0 2021-03-16 18:50:32.771
+!MESSAGE An exception occurred during push on URI https://github.com/shailgitub/microservices-in28mnt.git: https://github.com/shailgitub/microservices-in28mnt.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/shailgitub/microservices-in28mnt.git: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:172)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:217)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:77)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:48)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/shailgitub/microservices-in28mnt.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:519)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:405)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:160)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1275)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:161)
+	... 4 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2021-03-16 18:50:32.783
+!MESSAGE Can't connect to any repository: https://github.com/shailgitub/microservices-in28mnt.git (https://github.com/shailgitub/microservices-in28mnt.git: not authorized)
