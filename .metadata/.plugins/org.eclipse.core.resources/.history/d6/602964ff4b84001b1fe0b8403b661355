@@ -1,0 +1,8 @@
+#this limit-service .properties file will be store at git repository and will be shared 
+#between different applications to access common properties   
+
+limits-service.minimum=5
+limits-service.maximum=555
+
+limits-service.data="My name is shail"
+

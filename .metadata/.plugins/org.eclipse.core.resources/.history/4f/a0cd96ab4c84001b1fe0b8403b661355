@@ -1,0 +1,13 @@
+spring.application.name=limits-service
+
+#config server URL to connect with limits-service and to get configuration data, 
+# posrt is 8888, like in chrom: http://localhost:8888/limits-service/default
+spring.config.import=optional:configserver:http://localhost:8888
+
+#spring.profiles.active=qa
+#spring.cloud.config.profile=qa
+
+#spring.cloud.config.name=
+
+#limits-service.minimum=3
+#limits-service.maximum=997
